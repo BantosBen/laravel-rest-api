@@ -13,7 +13,7 @@ To set up this project locally, follow these steps:
 1. Clone the repository to your local machine using the command:
 
    ```
-   [git clone https://github.com/your-username/learning-rest-api-laravel.git](https://github.com/BantosBen/laravel-rest-api)
+   git clone https://github.com/BantosBen/laravel-rest-api
    ```
 
 2. Navigate to the project directory:
